@@ -1,5 +1,6 @@
 # data201_final_project
 Group Members: Zhiyan (Hermione) Deng, Elizabeth Hora, Vanessa Venkataraman
+
 This is our group submission for the DATA-201 course in the Tufts University Data Analytics Master's Program. We sought to understand more about the differences between stars in different stages of their life cycles. Our models (K Nearest Neighbors, Logistic Regression, Support Vector Machine, and Random Forest) attempted to differentiate between Young Stellar Objects (YSOs), Main Sequence (MS) stars, and Asymptotic Giant Branch (ABG) stars.
 
 # Contents
