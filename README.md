@@ -15,3 +15,6 @@ This file takes the files as a result of the split and assembles them into the s
 
 ## final_notebook
 This is the final draft of our Jupyter Notebook used to generate the models described in the presentation.
+
+## final_notebook_plots
+This directory has all the saved plots for the final_notebook.
