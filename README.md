@@ -11,7 +11,7 @@ This file has the slides of what we would have presented ([Google Slides Link](h
 This file splits up our large dataset that is too large to post to GitHub into smaller chunks that are in compliance with the 25 MB limit.
 
 ## assembling_the_truth
-This file takes the files as a result of the split and assembles them into the same truth set we could use on our local machines.
+This file takes the files as a result of the split and assembles them into the same truth set we could use on our local machines. **This file needs to be run in order for the final_notebook to be run.**
 
 ## final_notebook
 This is the final draft of our Jupyter Notebook used to generate the models described in the presentation.
